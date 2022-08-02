@@ -33536,7 +33536,7 @@ A.Mo.prototype={
 gah(a){return a.name}}
 A.Ci.prototype={
 M(a,b){var s=A.pb(B.ay),r=A.aaZ(B.cN,A.pb(B.cN),!1,B.j,B.e7,B.J,B.j,B.e7,B.wz,B.j,A.aw(31,116,10,0),B.kC,B.ay,B.ay,s,B.j,B.Is,null)
-return new A.tD(A.ald(b),"ChefExpress",r,null)}}
+return new A.tD(A.ald(b),"Adria Costruzioni",r,null)}}
 A.qo.prototype={
 aj(){return new A.FA(B.n)}}
 A.FA.prototype={
