@@ -1,11 +1,11 @@
 {
-    "name": "adria_costruzioni",
-    "short_name": "adria_costruzioni",
+    "name": "adria_costruzioni_sito",
+    "short_name": "adria_costruzioni_sito",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "sito web",
+    "description": "sito Adria Costruzioni",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
