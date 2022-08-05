@@ -3,12 +3,20 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "a43e788e616e854f58bef14051b6230f",
+  "assets/AssetManifest.json": "140e095f7a3b9b37eada8f18cd4ca62f",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/lib/assets/images/cantiere.jpg": "0470490101cdcb828cae6a392411bf91",
+"assets/lib/assets/images/chi_siamo_boh.png": "d3cab37789002f3413ddb19c0f4215a8",
+"assets/lib/assets/images/chi_siamo_palazzo.png": "b572475678610d7cbdfb3449c96d40e0",
+"assets/lib/assets/images/hww_1.png": "284385664c5f2480b8c91365e4019e8e",
+"assets/lib/assets/images/hww_2.png": "641bb440f78f582dd43989dfbc008a78",
+"assets/lib/assets/images/hww_3.png": "d0cacc500a7493901140e2ff839f6140",
 "assets/lib/assets/images/palazzi.png": "2b148ab624d10d81db0da5b4f15364e8",
 "assets/lib/assets/images/top.jpg": "28ef0d45b9b028b7b9c504fad4713168",
+"assets/lib/assets/text/chi_siamo.txt": "24cd1b4f373853008f35469fa5e981f2",
+"assets/lib/assets/text/filosofia.txt": "215e6f19ddc71f01aa5011ecdac1c375",
+"assets/lib/assets/text/how_we_work.txt": "123296b95a305f5bc15ea0db0a9e56ed",
 "assets/NOTICES": "2d7236aca695ba4cd213a3478e55d740",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
@@ -21,9 +29,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "f7a3577c820d2b9c75dc0857cb6733ae",
-"/": "f7a3577c820d2b9c75dc0857cb6733ae",
-"main.dart.js": "9392f19bd55a5acb385c8cd1fdce95c7",
+"index.html": "8bd8780845be18592c8e66c0422f4907",
+"/": "8bd8780845be18592c8e66c0422f4907",
+"main.dart.js": "5e32ca9026034241b309aa0d83d69cd7",
 "manifest.json": "5981b009923e6f6894ee19a042e450b1",
 "version.json": "929904b07fcc7b8b747486a30dedf473"
 };
