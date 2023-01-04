@@ -1,9 +1,3 @@
-Cogliamo questa occasione e la vostra gentile attenzione, per sottolineare la nostra "filosofia", base e guida di ogni nostro intervento, capace di realizzare le aspettative e i progetti dei nostri clienti.
-Con una esperienza ventennale siamo giunti alla concluisione che i fattori fondamentali di questo lavoro, per renderlo competitivo, realistico e professionale, sono tre:
-- sicurezza
-- qualità dei lavori
-- rispetto dei tempi di consegna
-
-Nella nostra azienda si condividono, con passione e professionalità, gli impegni lavorativi di tutti i giorni; gli operai edili che la compongono hanno adottato in pieno la filosofia di lavoro dall'impresa e cioè: SICUREZZA, QUALITA' E RISPETTO DEI TEMPI DI CONSEGNA DELLE OPERE.
-
-Giorno dopo giorno…… collaboriamo a costruire il vostro investimento.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d0e42891a45fe9c7c4ba03e302ee8700955373f1d3f18c709b93732de4f69f1
+size 809
