@@ -33849,7 +33849,7 @@ break
 case 1:return A.X(q,r)}})
 return A.Y($async$dM,r)},
 G(a){var s=null,r=this.a.c,q=t.E
-return A.ev(A.a([B.Eo,A.lS(A.a([A.cE(new A.bw(B.a4,A.fA("lib/assets/images/cantiere.jpg",B.am),s),s,r/3),A.ev(A.a([new A.bw(new A.aL(20,20,20,20),A.ds('" Filosofia aziendale "',B.cU,B.a_,s),s),A.BO(new A.a2L(this),this.dM(a),t.N)],q),B.aw,B.H,B.E)],q),B.aw,B.H,B.E)],q),B.aw,B.H,B.E)}}
+return A.ev(A.a([B.En,A.lS(A.a([A.cE(new A.bw(B.a4,A.fA("lib/assets/images/cantiere.jpg",B.am),s),s,r/3),A.ev(A.a([new A.bw(new A.aL(20,20,20,20),A.ds('" Filosofia aziendale "',B.cU,B.a_,s),s),A.BO(new A.a2L(this),this.dM(a),t.N)],q),B.aw,B.H,B.E)],q),B.aw,B.H,B.E)],q),B.aw,B.H,B.E)}}
 A.a2L.prototype={
 $2(a,b){var s,r=b.b
 if(r!=null){s=this.a.a.c
@@ -33864,7 +33864,7 @@ A.rU.prototype={
 a6(){return new A.I5(B.j)}}
 A.I5.prototype={
 G(a){var s=null,r=this.a.c/3,q=t.E
-return A.ev(A.a([A.lS(A.a([A.cE(new A.bw(B.a4,A.fA("lib/assets/images/cantiere.jpg",B.am),s),s,r),A.cE(B.Em,s,r),A.cE(new A.bw(B.a4,A.fA("lib/assets/images/palazzi.png",B.am),s),s,r)],q),B.a3,B.H,B.E)],q),B.a3,B.H,B.E)}}
+return A.ev(A.a([A.lS(A.a([A.cE(new A.bw(B.a4,A.fA("lib/assets/images/cantiere.jpg",B.am),s),s,r),A.cE(B.Eo,s,r),A.cE(new A.bw(B.a4,A.fA("lib/assets/images/palazzi.png",B.am),s),s,r)],q),B.a3,B.H,B.E)],q),B.a3,B.H,B.E)}}
 A.rV.prototype={
 a6(){return new A.I6(B.j)}}
 A.I6.prototype={
@@ -33883,7 +33883,7 @@ n=A.cE(new A.bw(B.a4,A.fA("lib/assets/images/cantiere.jpg",B.am),o),o,n/3)
 s=A.BO(new A.a3h(p),p.dM(a),t.N)
 r=p.a.c/3
 q=t.E
-return A.ev(A.a([B.En,A.lS(A.a([n,s,A.ev(A.a([A.cE(new A.bw(B.a4,A.fA("lib/assets/images/hww_1.png",B.am),o),o,r),A.cE(new A.bw(B.a4,A.fA("lib/assets/images/hww_2.png",B.am),o),o,r),A.cE(new A.bw(B.a4,A.fA("lib/assets/images/hww_3.png",B.am),o),o,r)],q),B.a3,B.H,B.E)],q),B.aw,B.H,B.E)],q),B.aw,B.H,B.E)}}
+return A.ev(A.a([B.Em,A.lS(A.a([n,s,A.ev(A.a([A.cE(new A.bw(B.a4,A.fA("lib/assets/images/hww_1.png",B.am),o),o,r),A.cE(new A.bw(B.a4,A.fA("lib/assets/images/hww_2.png",B.am),o),o,r),A.cE(new A.bw(B.a4,A.fA("lib/assets/images/hww_3.png",B.am),o),o,r)],q),B.a3,B.H,B.E)],q),B.aw,B.H,B.E)],q),B.aw,B.H,B.E)}}
 A.a3h.prototype={
 $2(a,b){var s,r=b.b
 if(r!=null){s=this.a.a.c
@@ -62250,20 +62250,20 @@ B.Eh=new A.o1(1,null)
 B.Ei=new A.u1(null)
 B.zq=new A.aL(40,10,40,10)
 B.cU=new A.p(!0,null,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.Kk=new A.fW("Chi siamo",null,B.cU,B.cS,null,null)
-B.Ej=new A.bw(B.zq,B.Kk,null)
+B.Kj=new A.fW("Chi siamo",null,B.cU,B.cS,null,null)
+B.Ej=new A.bw(B.zq,B.Kj,null)
 B.de=new A.aL(20,20,20,20)
 B.bs=new A.p(!0,B.aX,null,null,null,null,22,B.bE,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Ki=new A.fW("Galleria",null,B.bs,B.a_,null,null)
 B.Ek=new A.bw(B.de,B.Ki,null)
 B.Kl=new A.fW("Presentazione",null,B.bs,B.a_,null,null)
 B.El=new A.bw(B.de,B.Kl,null)
-B.Kj=new A.fW("Prestazioni edili e civili per edifici civili e insdustriali.\n\nCarpenteria cemento armato.",null,B.bs,B.cS,null,null)
-B.Em=new A.bw(B.a4,B.Kj,null)
 B.Km=new A.fW("Come operiamo",null,B.bs,B.a_,null,null)
-B.En=new A.bw(B.de,B.Km,null)
+B.Em=new A.bw(B.de,B.Km,null)
 B.Kh=new A.fW("La nostra filosofia",null,B.bs,B.a_,null,null)
-B.Eo=new A.bw(B.de,B.Kh,null)
+B.En=new A.bw(B.de,B.Kh,null)
+B.Kk=new A.fW("Prestazioni edili e civili per edifici civili e insdustriali.\n\nCarpenteria, cemento armato e restauro.",null,B.bs,B.cS,null,null)
+B.Eo=new A.bw(B.a4,B.Kk,null)
 B.Ep=new A.u4(null)
 B.as=new A.u8(0,"fill")
 B.F=new A.u8(1,"stroke")

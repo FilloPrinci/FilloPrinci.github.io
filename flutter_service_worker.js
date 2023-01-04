@@ -484,8 +484,8 @@ const RESOURCES = {
 "assets/lib/assets/images/hww_3.png": "d0cacc500a7493901140e2ff839f6140",
 "assets/lib/assets/images/palazzi.png": "2b148ab624d10d81db0da5b4f15364e8",
 "assets/lib/assets/images/top.jpg": "28ef0d45b9b028b7b9c504fad4713168",
-"assets/lib/assets/text/chi_siamo.txt": "24cd1b4f373853008f35469fa5e981f2",
-"assets/lib/assets/text/filosofia.txt": "215e6f19ddc71f01aa5011ecdac1c375",
+"assets/lib/assets/text/chi_siamo.txt": "3b9ca798ab31a1ba28a3533ba2bc6a20",
+"assets/lib/assets/text/filosofia.txt": "827e8afd2e4b3de02f86d08693535664",
 "assets/lib/assets/text/how_we_work.txt": "123296b95a305f5bc15ea0db0a9e56ed",
 "assets/NOTICES": "548b7117c0983b82beec2ec2960c095c",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
@@ -500,9 +500,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "5d09de95e14bc7975ec9a0cf4be3ad2a",
-"/": "5d09de95e14bc7975ec9a0cf4be3ad2a",
-"main.dart.js": "d1e551d36150ace4bf7d45024c1aac20",
+"index.html": "999b1cd1b475af66b44bc6aac5f8af23",
+"/": "999b1cd1b475af66b44bc6aac5f8af23",
+"main.dart.js": "419b0faaee0dbc94aac374d630f0e912",
 "manifest.json": "5981b009923e6f6894ee19a042e450b1",
 "version.json": "929904b07fcc7b8b747486a30dedf473"
 };
