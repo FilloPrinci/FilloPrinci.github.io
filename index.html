@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Filippo Principato — Frontend Developer and Game Developer. React, Three.js, Unity, Blender." />
+    <title>Filippo Principato</title>
+    <meta name="theme-color" content="#080C10" media="(prefers-color-scheme: dark)" />
+    <meta name="theme-color" content="#EEF2F5" media="(prefers-color-scheme: light)" />
+    <script>
+      // Set the theme before first paint to avoid a flash: saved choice, else OS setting
+      (function () {
+        var saved = null
+        try { saved = localStorage.getItem('theme') } catch (e) {}
+        var light = saved ? saved === 'light' : window.matchMedia('(prefers-color-scheme: light)').matches
+        document.documentElement.dataset.theme = light ? 'light' : 'dark'
+      })()
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@300;400;500&display=swap" rel="stylesheet">
+    <script type="module" crossorigin src="/assets/index-Yuo5gZEv.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-BSFydvu5.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
+</html>
